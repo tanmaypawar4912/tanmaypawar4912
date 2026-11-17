@@ -1,106 +1,137 @@
-<!-- PREMIUM GITHUB PROFILE — TANMAY SANTOSH PAWAR -->
+<!--
+  TANMAY PAWAR
+  PREMIUM GITHUB PROFILE
+  THEME: MIDNIGHT NAVY × SOFT CYAN
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0C4A6E,100:06B6D4&height=240&section=header&text=TANMAY%20PAWAR&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=MERN%20STACK%20DEVELOPER%20%7C%20FULL%20STACK%20ENGINEER&descAlignY=58&descSize=17" alt="Tanmay Pawar Developer Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F2742,100:0891B2&height=240&section=header&text=TANMAY%20PAWAR&fontSize=51&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=MERN%20STACK%20DEVELOPER%20%7C%20FULL%20STACK%20ENGINEERING&descAlignY=59&descSize=17" alt="Tanmay Pawar Header"/>
 
-<h2>Hi there, I'm Tanmay Santosh Pawar 👋</h2>
+### 👋 Hello World, I'm Tanmay Santosh Pawar
 
-<h3>🚀 MERN Stack Developer | Full Stack Web Enthusiast</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1100&color=00BFFF&center=true&vCenter=true&width=720&lines=Welcome+to+My+GitHub+Profile!;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+Web+Applications;Currently+Working+at+IRTCM+INDIA;Code.+Create.+Innovate.+Repeat." alt="Animated Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1100&color=67E8F9&center=true&vCenter=true&width=700&height=55&lines=MERN+Stack+Developer;React.js+%E2%80%A2+Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB;Building+Scalable+Web+Applications;Passionate+About+Clean+Code+%26+Modern+UI;Turning+Ideas+Into+Digital+Experiences" alt="Animated Developer Introduction"/>
 
 <br/>
 
-<p>
-  <b>Crafting responsive interfaces, powerful APIs and meaningful digital experiences.</b>
-</p>
+**Building thoughtful digital experiences through clean code, scalable systems and continuous learning.**
 
 <br/>
 
 <a href="https://tanmay-pawar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/tanmay-pawar315835821/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/tanmaypawar4912">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://github.com/tanmaypawar4912/tanmaypawar4912/blob/main/Tanmay_Pawar_MERN_Stack_Resume.pdf">
-<img src="https://img.shields.io/badge/VIEW_RESUME-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume"/>
+<a href="mailto:tanmaypawar200@gmail.com">
+<img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=tanmaypawar4912&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/tanmaypawar4912?label=FOLLOWERS&style=for-the-badge&color=0284C7" alt="GitHub Followers"/>
+<img src="https://komarev.com/ghpvc/?username=tanmaypawar4912&label=PROFILE+VIEWS&color=0891B2&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/tanmaypawar4912?label=FOLLOWERS&color=0E7490&style=flat-square" alt="Followers"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/STATUS-CURRENTLY_WORKING-22C55E?style=flat-square" alt="Currently Working"/>
-<img src="https://img.shields.io/badge/OPEN_TO-MERN_OPPORTUNITIES-2563EB?style=flat-square" alt="Open to Opportunities"/>
+<img src="https://img.shields.io/badge/Currently_Working-15803D?style=flat-square&logo=statuspage&logoColor=white" alt="Currently Working"/>
+<img src="https://img.shields.io/badge/Open_to_Opportunities-0369A1?style=flat-square" alt="Open to Opportunities"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 01. 👨‍💻 About Me
 
-- 💼 **Currently Working** as a MERN Stack Developer at **IRTCM INDIA PRIVATE LIMITED, Pune**.
-- 🎓 Pursuing **M.Sc. Computer Applications** at MES Abasaheb Garware College, Pune.
-- 🚀 Passionate about building modern, scalable and responsive full-stack applications.
-- 💻 Working with **React.js, TypeScript, Node.js, Express.js and MongoDB**.
-- 🔐 Experienced in **JWT Authentication, REST APIs, Protected Routes and Database Integration**.
-- 🤖 Interested in AI-powered applications and intelligent digital solutions.
-- 🧩 Focused on reusable components, clean architecture and seamless user experiences.
-- 🎯 Open to **Full-Time MERN Stack Developer Opportunities**.
-- 📍 Based in **Pune, Maharashtra, India**.
+I'm **Tanmay Santosh Pawar**, a MERN Stack Developer based in Pune, India.
+
+I enjoy building responsive, user-friendly and scalable applications that solve real-world problems. My work combines modern frontend development with backend systems, authentication and database-driven functionality.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Currently
+
+**MERN Stack Developer**
+
+IRTCM INDIA PRIVATE LIMITED, Pune
+
+- Full-stack application development
+- Responsive dashboards and UI
+- REST APIs and authentication
+- Database-driven features
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 My Focus
+
+**Modern Web Engineering**
+
+- Clean and reusable components
+- Scalable backend architecture
+- Responsive user experiences
+- Continuous technical growth
+
+</td>
+</tr>
+</table>
+
+### A little more about me
+
+- 💻 Working with **React.js, Node.js, Express.js and MongoDB**.
+- 🧠 Experienced with **JavaScript, TypeScript, REST APIs and JWT Authentication**.
+- ⚡ Building user-friendly interfaces and reliable backend workflows.
+- 🤖 Interested in AI-powered applications and practical software solutions.
+- 🎓 Pursuing **M.Sc. Computer Applications**.
+- 🤝 Open to meaningful collaborations and MERN Stack Developer opportunities.
 
 ---
 
-## ⚡ Tech Stack & Tools
+## 02. ⚡ My Technology Stack
 
 <div align="center">
 
-<h3>Frontend Technologies</h3>
+### Frontend Engineering
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Stack"/>
-
-<br/><br/>
-
-<h3>Backend Technologies</h3>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php&theme=dark" alt="Backend Stack"/>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Skills"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication"/>
+### Backend Engineering
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php&theme=dark" alt="Backend Skills"/>
 
 <br/><br/>
 
-<h3>Database & Data Management</h3>
+### Database & Authentication
 
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="Database"/>
 
 <br/><br/>
 
-<h3>Developer Tools & Deployment</h3>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose"/>
+<img src="https://img.shields.io/badge/REST_APIs-0E7490?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-334155?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication"/>
+
+<br/><br/>
+
+### Development Tools & Deployment
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Developer Tools"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+<img src="https://img.shields.io/badge/Render-334155?style=flat-square&logo=render&logoColor=white" alt="Render"/>
 
-<br/><br/>
+<br/>
 
-<h3>Other Programming Languages</h3>
+### Additional Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,c,cpp&theme=dark" alt="Programming Languages"/>
 
@@ -108,217 +139,270 @@
 
 ---
 
-## 💼 Professional Experience
+## 03. 🧠 A Developer's Perspective
+
+```javascript
+const tanmay = {
+  name: "Tanmay Santosh Pawar",
+  role: "MERN Stack Developer",
+  location: "Pune, India",
+
+  currentlyWorkingAt: "IRTCM INDIA PRIVATE LIMITED",
+
+  primaryStack: {
+    frontend: ["React.js", "TypeScript", "JavaScript"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB", "Mongoose"]
+  },
+
+  additionalSkills: [
+    "REST APIs",
+    "JWT Authentication",
+    "Tailwind CSS",
+    "Python",
+    "FastAPI"
+  ],
+
+  interests: [
+    "Full Stack Engineering",
+    "Modern UI Development",
+    "AI-Powered Applications",
+    "Scalable Web Architecture"
+  ],
+
+  philosophy: "Build with purpose. Learn continuously.",
+
+  availableFor: "MERN Stack Opportunities"
+};
+```
+
+---
+
+## 04. 💼 Professional Experience
 
 ### MERN Stack Developer
-**IRTCM INDIA PRIVATE LIMITED | Pune, Maharashtra**
 
-![Employment](https://img.shields.io/badge/Employment-Currently_Working-22C55E?style=flat-square)
+**IRTCM INDIA PRIVATE LIMITED — Pune, Maharashtra**
 
-- Developed responsive frontend modules and dashboard interfaces using **React.js**.
-- Created reusable React components, validated forms and structured data-handling workflows.
-- Implemented **JWT Authentication** and protected routes.
-- Worked on backend workflows for **employee records and payroll processing**.
-- Collaborated across the MERN stack, including **MongoDB schema design, Express.js APIs and frontend integration**.
-- Supported application features from development through deployment.
+<img src="https://img.shields.io/badge/Employment-Currently_Working-15803D?style=flat-square" alt="Employment Status"/>
+
+#### Key Responsibilities & Contributions
+
+- Developed and maintained responsive frontend modules and dashboard-style interfaces for business applications.
+- Built reusable React.js components and implemented validated forms.
+- Improved consistency through structured frontend data-handling patterns.
+- Implemented JWT-based authentication and protected application routes.
+- Worked on payroll processing and employee record management workflows.
+- Collaborated across MongoDB schemas, Express.js APIs and React.js interfaces.
+- Supported full-stack features from development through deployment.
+
+**Core Areas:** `React.js` `REST APIs` `MongoDB` `Authentication` `Business Dashboards`
 
 ---
 
-## 🚀 Featured Projects
+## 05. 🚀 Selected Projects
 
-### 🤖 01. CareerForge AI
+A collection of applications focused on solving practical problems with modern web technologies.
+
+### 01 / CareerForge AI
+
 **AI-Powered Career Development Platform**
 
-<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white" alt="AI"/>
+<img src="https://img.shields.io/badge/AI_Powered-0F766E?style=flat-square" alt="AI Powered"/>
+<img src="https://img.shields.io/badge/Full_Stack-0369A1?style=flat-square" alt="Full Stack"/>
 
-An intelligent career-development platform designed to support resume evaluation and interview preparation.
+CareerForge AI is an intelligent career development platform designed to make career preparation more efficient through AI-driven features.
 
-**Key Features:**
-- ATS-style resume scoring.
-- AI-powered interview question generation.
-- Authentication using Clerk.
-- Python and FastAPI backend integration.
-- MongoDB persistence and asynchronous AI workflows.
-- Integration with OpenAI API and Google Gemini.
+#### What I Built
 
-**Tech:** React 19, TypeScript, FastAPI, Python, MongoDB, OpenAI API, Google Gemini, Clerk Auth
+- ATS-style document evaluation and scoring.
+- AI-generated interview preparation questions.
+- Secure authentication using Clerk.
+- Responsive frontend using React 19 and TypeScript.
+- Python/FastAPI backend services.
+- MongoDB persistence with asynchronous AI processing.
+- Integrations using OpenAI API and Google Gemini.
+
+**Technology Stack**
+
+`React 19` `TypeScript` `FastAPI` `Python` `MongoDB` `OpenAI API` `Google Gemini` `Clerk`
 
 ---
 
-### 🚘 02. AutoLux
+### 02 / AutoLux
+
 **Full Stack Car Dealership Platform**
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MERN_Stack-0F766E?style=flat-square" alt="MERN Stack"/>
+<img src="https://img.shields.io/badge/Marketplace-0369A1?style=flat-square" alt="Marketplace"/>
 
-A modern car marketplace combining customer-friendly vehicle discovery with powerful administration tools.
+AutoLux is a full-stack car dealership platform designed to provide a seamless vehicle discovery and booking experience.
 
-**Key Features:**
-- Responsive car listings with detailed vehicle information.
-- Car booking, wishlist and comparison.
+#### What I Built
+
+- Responsive vehicle listings and detailed car pages.
+- Booking and wishlist functionality.
+- Vehicle comparison system.
 - Recently viewed cars and customer reviews.
-- Enquiry management and EMI calculator.
-- Admin CMS for cars, users, bookings and reviews.
-- Dynamic filter management.
+- Customer enquiry workflows and EMI calculator.
+- Admin CMS for managing vehicles, users and bookings.
+- Dynamic filtering and management features.
 
-**Tech:** React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Clerk Authentication
+**Technology Stack**
+
+`React` `TypeScript` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Clerk`
 
 <br/>
 
 <a href="https://auto-lux-frontend.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="AutoLux Live Demo"/>
+<img src="https://img.shields.io/badge/Explore_Live_Project-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="AutoLux Live Demo"/>
 </a>
 
 ---
 
-### ✅ 03. TaskFlow
-**Todo & Task Management Application**
+### 03 / TaskFlow
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+**Modern Task Management Application**
 
-A clean, responsive task-management frontend focused on simplicity and productivity.
+<img src="https://img.shields.io/badge/Frontend-0F766E?style=flat-square" alt="Frontend"/>
+<img src="https://img.shields.io/badge/Productivity-0369A1?style=flat-square" alt="Productivity"/>
 
-**Key Features:**
-- Modern task-management interface.
+TaskFlow is a responsive task management application designed with a clean interface and a focus on everyday usability.
+
+#### What I Built
+
+- Responsive task-management frontend.
 - Reusable React components.
-- Responsive design for different screen sizes.
-- Organized and intuitive user experience.
-- Deployment on Vercel.
+- Clean and user-friendly layouts.
+- Task organization interface.
+- Cross-device responsive design.
+- Application deployment on Vercel.
 
-**Tech:** React, JavaScript/TypeScript, Tailwind CSS
+**Technology Stack**
+
+`React.js` `JavaScript` `TypeScript` `Tailwind CSS`
 
 <br/>
 
 <a href="https://task-flow-frontend-dusky.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="TaskFlow Live Demo"/>
+<img src="https://img.shields.io/badge/Explore_Live_Project-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="TaskFlow Live Demo"/>
 </a>
 
 ---
 
-## 📊 GitHub Analytics
+## 06. 📊 GitHub Insights
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanmaypawar4912&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanmaypawar4912&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypawar4912&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypawar4912&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=CBD5E1" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=tanmaypawar4912&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=tanmaypawar4912&theme=tokyonight&hide_border=true&background=0D1117&ring=67E8F9&fire=38BDF8&currStreakLabel=67E8F9" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 07. 📈 Development Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanmaypawar4912&bg_color=0d1117&color=38bdf8&line=06b6d4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanmaypawar4912&bg_color=0D1117&color=67E8F9&line=0891B2&point=F8FAFC&area=true&hide_border=true" alt="GitHub Contribution Activity"/>
 
 </div>
 
 ---
 
-## 🎓 Education
+## 08. 🎓 Academic Background
 
-| Qualification | Institute | Duration |
+| Education | Institution | Duration |
 |:---|:---|:---|
 | M.Sc. Computer Applications — Pursuing | MES Abasaheb Garware College, Pune | 2025–2027 |
 | B.Sc. Computer Science | MES Abasaheb Garware College, Pune | 2021–2025 |
-| HSC | Shri Jayntrao Wanjari Junior College, Wadoda, Nagpur | 2019–2021 |
-| SSC | Annasaheb Dange Public School, Ashta, Sangli | 2015–2019 |
+| HSC | Shri Jayntrao Wanjari Junior College, Nagpur | 2019–2021 |
+| SSC | Annasaheb Dange Public School, Sangli | 2015–2019 |
 
 ---
 
-## 🏅 Certifications & Strengths
+## 09. 🏅 Certifications & Professional Strengths
 
 ### Certifications
-- ☁️ **Cloud 101** — Anthropic Academy
-- 📡 **Postman API Beginner**
 
-### Core Strengths
-- Responsive UI Development
-- Reusable Component Architecture
-- Problem Solving
-- Teamwork & Adaptability
-- REST API Integration
+- **Cloud 101** — Anthropic Academy
+- **Postman API Beginner**
+
+### Strengths
+
+`Responsive Design` `Reusable Components` `Problem Solving` `Teamwork` `Adaptability`
 
 ### Languages
+
 English • Marathi • Hindi
 
 ---
 
-## 📄 My Resume
+## 10. 🎯 Engineering Focus
 
 <div align="center">
 
-<h3>Want to know more about my experience and projects?</h3>
-
-<p>Explore my resume for a detailed overview of my skills, experience and education.</p>
-
-<br/>
-
-<a href="https://github.com/tanmaypawar4912/tanmaypawar4912/blob/main/Tanmay_Pawar_MERN_Stack_Resume.pdf">
-<img src="https://img.shields.io/badge/VIEW_MY_RESUME-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume"/>
-</a>
-
-<a href="https://raw.githubusercontent.com/tanmaypawar4912/tanmaypawar4912/main/Tanmay_Pawar_MERN_Stack_Resume.pdf">
-<img src="https://img.shields.io/badge/DOWNLOAD_RESUME-0891B2?style=for-the-badge&logo=files&logoColor=white" alt="Download Resume"/>
-</a>
+| Area | Focus |
+|:---:|:---|
+| 🎨 Frontend | Responsive interfaces & reusable components |
+| ⚙️ Backend | REST APIs & application workflows |
+| 🗄️ Database | MongoDB & data modeling |
+| 🔐 Security | Authentication & protected routes |
+| 🤖 Innovation | AI-powered web applications |
+| 🚀 Delivery | Maintainable and deployable applications |
 
 </div>
 
 ---
 
-## 🌐 Let's Connect & Collaborate
+## 11. 🌐 Let's Connect
 
 <div align="center">
 
-<h3>Have an opportunity, project idea or something to discuss?</h3>
+### Have a Project Idea or an Opportunity?
 
-<p>I'm always interested in connecting with developers, learning new technologies and building meaningful digital products.</p>
+I'm always interested in connecting with developers, collaborating on meaningful projects and exploring new opportunities in full-stack development.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/tanmay-pawar315835821/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:tanmaypawar200@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 <a href="https://tanmay-pawar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+
 <a href="https://github.com/tanmaypawar4912">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-📧 **tanmaypawar200@gmail.com**
+**📧 tanmaypawar200@gmail.com**
 
-📍 **Pune, Maharashtra, India**
-
-<br/>
-
-### ✨ Thanks for Visiting!
-
-**"Great software starts with curiosity and grows through consistent learning."**
+**📍 Pune, Maharashtra, India**
 
 <br/>
 
-⭐ If you find my work interesting, consider exploring my repositories.
+### Thanks for Visiting! ✨
+
+*Code with purpose. Build with passion. Keep evolving.*
+
+<br/>
+
+⭐ Feel free to explore my work and connect.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0C4A6E,100:06B6D4&height=130&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F2742,100:0891B2&height=115&section=footer" alt="Footer"/>
